@@ -1,0 +1,11 @@
+Event name,Session source/medium,Event count
+cv_download,linkedin.com / referral,2
+page_view,(direct) / (none),11
+page_view,bing / organic,1
+page_view,linkedin.com / referral,15
+scroll,linkedin.com / referral,10
+session_start,(direct) / (none),12
+session_start,bing / organic,1
+session_start,linkedin.com / referral,17
+site_click,(direct) / (none),2
+site_click,linkedin.com / referral,25

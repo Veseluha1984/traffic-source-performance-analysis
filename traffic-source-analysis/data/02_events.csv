@@ -1,0 +1,11 @@
+Event name,Event count,Total users,Event count per active user,Total revenue
+page_view,275,17,16.176470588235293,0
+cv_download,267,2,133.5,0
+user_engagement,162,4,40.5,0
+site_click,102,4,25.5,0
+session_start,45,17,2.6470588235294117,0
+scroll,42,3,14,0
+click,21,2,10.5,0
+first_visit,17,16,1.0625,0
+cv_download_click,12,2,6,0
+file_download,6,2,3,0
