@@ -25,7 +25,7 @@ engagement metrics.
 - Detect underperforming channels\
 - Build a strategic performance matrix
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
