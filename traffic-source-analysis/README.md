@@ -1,6 +1,6 @@
 # 📊 Traffic Source Performance & Engagement Analysis (SQL + Tableau)
 
-![Dashboard Preview](tableau/screenshots/dashboard.png)
+[![Traffic Source Dashboard](tableau/screenshots/dashboard_preview.png)](https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes)
 
 ![Status](https://img.shields.io/badge/status-completed-success)
 ![Stack](https://img.shields.io/badge/stack-SQL%20%7C%20Tableau-blue)
@@ -13,6 +13,7 @@ Tableau.
 🔗 **Live Dashboard (Tableau Public):**\
 https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes
 
+![Dashboard Preview](tableau/screenshots/dashboard.png)
 ------------------------------------------------------------------------
 
 ## 🚀 Project Overview
@@ -35,6 +36,7 @@ engagement metrics.
 -   Tableau (Interactive dashboard)\
 -   Parameter-driven KPI selection\
 -   Dashboard Filter Actions
+-   Data aggregation & KPI benchmarking
 
 ------------------------------------------------------------------------
 
