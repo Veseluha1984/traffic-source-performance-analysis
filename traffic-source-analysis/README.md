@@ -1,14 +1,12 @@
 # 📊 Traffic Source Performance & Engagement Analysis (SQL + Tableau)
 
-[![Traffic Source Dashboard](tableau/screenshots/dashboard_preview.png)](https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes)
+[![Traffic Source Dashboard](tableau/screenshots/dashboard.png)](https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes)
 
 ![Status](https://img.shields.io/badge/status-completed-success)
 ![Stack](https://img.shields.io/badge/stack-SQL%20%7C%20Tableau-blue)
 ![Focus](https://img.shields.io/badge/focus-Marketing%20Analytics-orange)
 
-End-to-end marketing analytics project analyzing traffic sources,
-engagement efficiency, and performance positioning using SQL and
-Tableau.
+End-to-end marketing analytics project focused on evaluating acquisition channel quality through engagement efficiency and activity benchmarking using SQL and Tableau.
 
 🔗 **Live Dashboard (Tableau Public):**\
 https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes
@@ -104,6 +102,7 @@ traffic-source-analysis/
 -   Organic Bing contributes minimal traffic and shows weak
     performance.\
 -   LinkedIn represents the strongest high-value acquisition source.
+-   Engagement benchmarking highlights acquisition quality differences beyond raw traffic volume.
 
 ------------------------------------------------------------------------
 
