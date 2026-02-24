@@ -1,5 +1,6 @@
 # 📊 Traffic Source Performance & Engagement Analysis (SQL + Tableau)
 
+**Live Interactive Dashboard:** 
 [![Traffic Source Dashboard](tableau/screenshots/dashboard.png)](https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes)
 
 ![Status](https://img.shields.io/badge/status-completed-success)
@@ -8,10 +9,6 @@
 
 End-to-end marketing analytics project focused on evaluating acquisition channel quality through engagement efficiency and activity benchmarking using SQL and Tableau.
 
-🔗 **Live Dashboard (Tableau Public):**\
-https://public.tableau.com/app/profile/yauheni.vesialukha/viz/TrafficSourcePerformanceAnalysisTableauPortfolio/TrafficSourcePerformanceEngagementAnalysis?publish=yes
-
-![Dashboard Preview](tableau/screenshots/dashboard.png)
 ------------------------------------------------------------------------
 
 ## 🚀 Project Overview
